@@ -1,7 +1,6 @@
-========================================================
-autotests_tensor_testtask
-========================================================
-technologies: Python 3.9.2, Pytest, Selenium WebDriver, WebDriver-Manager
+# autotests_tensor_testtask
+
+### technologies: Python 3.9.2, Pytest, Selenium WebDriver, WebDriver-Manager
 
 Task:
 
