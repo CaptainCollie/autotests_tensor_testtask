@@ -53,18 +53,19 @@ Task:
 Install:
 
 1) Install requirements:
-
+'''
     python3 -m venv env
-
+'''
 2) Activate virtual enviroment:
-
+'''
     source env/bin/activate
     env/bin/activate.bat
-
+'''
 3) Download requirements:
-
+'''
     pip install -r requirements.txt
-
+'''
 4) Run tests:
-
+'''
     pytest -v
+'''
